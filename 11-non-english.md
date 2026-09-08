@@ -1617,6 +1617,7 @@
 -   [Hdfilmcehennemi](https://www.hdfilmcehennemi.nl/) - Movies / TV / Sub / Dub / 1080p
 -   [OpenAnime](https://openani.me/) - Anime
 -   [Yabancıdizi](https://yabancidizi.so/) - Movies / TV / Sub / Dub / 1080p
+-   [AniHub](https://anihub.com.tr/) - Anime / Turkish Subs
 -   [AnimeciX](https://anm.cx/) - Anime
 -   [Anizm](https://anizm.net/) - Anime
 -   [AsyaAnimeleri](https://asyaanimeleri.top/) - Anime
